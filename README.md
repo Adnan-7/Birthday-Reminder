@@ -1,4 +1,4 @@
-<h1>Birthday Reminder project <a href="https://birthday-reminder-tawny.vercel.app/">Demo</a></h1>
+<h1>Birthday Reminder <a href="https://birthday-reminder-tawny.vercel.app/">Demo</a></h1>
 
 <h2># Getting Started with Create React App</h2>
 
